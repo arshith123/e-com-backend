@@ -18,7 +18,7 @@ JWT_SECRET=2c7be41d7613823ba26804857e97b9a112c9ec88ee2480297e2562ec0f423b2a5346c
 
 - Node.js (version 14 or above recommended)  
 - MongoDB running locally on default port 27017 or update `MONGO_URL` accordingly  
-- Any package manager (npm/yarn) to install dependencies
+- npm package manager  to install dependencies
 
 ## Getting Started
 
